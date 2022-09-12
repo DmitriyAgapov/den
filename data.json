@@ -1,0 +1,251 @@
+{
+  "Bids": [
+    {
+      "Id": 10576513,
+      "Url": "/emoney/bids/accept/10576513",
+      "WmAmount": "100,00",
+      "Amount": "5695,00",
+      "Rate": 56.95,
+      "RateFormatted": "56,9500 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Тинькофф Банк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": null,
+      "User": {
+        "IsOwner": false,
+        "Passport": "Формальный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_110.png",
+        "Rating": 188,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 0,
+        "AverageConfirmTransferTime": 4
+      }
+    },
+    {
+      "Id": 10576778,
+      "Url": "/emoney/bids/accept/10576778",
+      "WmAmount": "100,00",
+      "Amount": "5697,00",
+      "Rate": 56.97,
+      "RateFormatted": "56,9700 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Тинькофф Банк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": "Быстро. Тинька",
+      "User": {
+        "IsOwner": false,
+        "Passport": "Персональный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_130.png",
+        "Rating": 505,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 2,
+        "AverageConfirmTransferTime": 4
+      }
+    },
+    {
+      "Id": 10576395,
+      "Url": "/emoney/bids/accept/10576395",
+      "WmAmount": "700,00",
+      "Amount": "39879,00",
+      "Rate": 56.97,
+      "RateFormatted": "56,9700 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Тинькофф Банк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": null,
+      "User": {
+        "IsOwner": false,
+        "Passport": "Персональный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_130.png",
+        "Rating": 524,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 0,
+        "AverageConfirmTransferTime": 20
+      }
+    },
+    {
+      "Id": 10576181,
+      "Url": "/emoney/bids/accept/10576181",
+      "WmAmount": "550,00",
+      "Amount": "31336,25",
+      "Rate": 56.975,
+      "RateFormatted": "56,9750 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Сбербанк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": "тг@babekcikcik_144\r\n24 часа онлайн \r\nбыстро подтвержу!",
+      "User": {
+        "IsOwner": false,
+        "Passport": "Персональный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_130.png",
+        "Rating": 801,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 9,
+        "AverageConfirmTransferTime": 3
+      }
+    },
+    {
+      "Id": 10574059,
+      "Url": "/emoney/bids/accept/10574059",
+      "WmAmount": "700,00",
+      "Amount": "39882,50",
+      "Rate": 56.975,
+      "RateFormatted": "56,9750 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Сбербанк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": "тг@babekcikcik_144\r\n24 часа онлайн \r\nбыстро подтвержу!",
+      "User": {
+        "IsOwner": false,
+        "Passport": "Персональный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_130.png",
+        "Rating": 801,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 9,
+        "AverageConfirmTransferTime": 2
+      }
+    },
+    {
+      "Id": 10576915,
+      "Url": "/emoney/bids/accept/10576915",
+      "WmAmount": "300,00",
+      "Amount": "17094,00",
+      "Rate": 56.98,
+      "RateFormatted": "56,9800 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Тинькофф Банк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": "Получатель: Тамара С.",
+      "User": {
+        "IsOwner": false,
+        "Passport": "Формальный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_110.png",
+        "Rating": 173,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 7,
+        "AverageConfirmTransferTime": 3
+      }
+    },
+    {
+      "Id": 10576862,
+      "Url": "/emoney/bids/accept/10576862",
+      "WmAmount": "150,00",
+      "Amount": "8548,50",
+      "Rate": 56.99,
+      "RateFormatted": "56,9900 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Сбербанк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": "тг@babekcikcik_144\r\n24 часа онлайн \r\nбыстро подтвержу!",
+      "User": {
+        "IsOwner": false,
+        "Passport": "Персональный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_130.png",
+        "Rating": 801,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 9,
+        "AverageConfirmTransferTime": 4
+      }
+    },
+    {
+      "Id": 10576495,
+      "Url": "/emoney/bids/accept/10576495",
+      "WmAmount": "250,00",
+      "Amount": "14247,50",
+      "Rate": 56.99,
+      "RateFormatted": "56,9900 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Сбербанк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": "тг@babekcikcik_144\r\n24 часа онлайн \r\nбыстро подтвержу!",
+      "User": {
+        "IsOwner": false,
+        "Passport": "Персональный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_130.png",
+        "Rating": 801,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 9,
+        "AverageConfirmTransferTime": 4
+      }
+    },
+    {
+      "Id": 10576073,
+      "Url": "/emoney/bids/accept/10576073",
+      "WmAmount": "350,00",
+      "Amount": "19946,50",
+      "Rate": 56.99,
+      "RateFormatted": "56,9900 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Сбербанк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": "тг@babekcikcik_144\r\n24 часа онлайн \r\nбыстро подтвержу!",
+      "User": {
+        "IsOwner": false,
+        "Passport": "Персональный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_130.png",
+        "Rating": 801,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 9,
+        "AverageConfirmTransferTime": 3
+      }
+    },
+    {
+      "Id": 10574537,
+      "Url": "/emoney/bids/accept/10574537",
+      "WmAmount": "450,00",
+      "Amount": "25645,50",
+      "Rate": 56.99,
+      "RateFormatted": "56,9900 RUB",
+      "IsUnitPrice": true,
+      "Provider": {
+        "Name": "Сбербанк",
+        "Icon": "/Content/Images/emoney/sbp.png",
+        "ServiceName": null
+      },
+      "Description": "тг@babekcikcik_144\r\n24 часа онлайн \r\nбыстро подтвержу!",
+      "User": {
+        "IsOwner": false,
+        "Passport": "Персональный аттестат",
+        "PassportIcon": "/Content/Images/wm/passport_130.png",
+        "Rating": 801,
+        "RatingColor": "#2d83ec",
+        "AverageSendMoneyTime": 9,
+        "AverageConfirmTransferTime": 2
+      }
+    }
+  ],
+  "ActivePage": 1,
+  "TotalCount": 2439,
+  "PerPage": 10,
+  "FirstItemOnPage": 1,
+  "TotalAmount": 287375.69,
+  "EmptySearchTerm": true,
+  "TotalAmountFiat": 19433247.18
+}
