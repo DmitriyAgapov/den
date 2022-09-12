@@ -10,7 +10,7 @@
     "ws": "^8.8.1"
   },
   "scripts": {
-    "server": "node ./server.cjs",
+    "server": "NODE ./server.js",
     "run": "const.js"
   },
   "type": "module"
